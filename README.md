@@ -22,9 +22,14 @@ Amplitude Modulation (AM) is a technique used in electronic communication, prima
 6.	Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
 ## PROGRAM
+<img width="536" height="660" alt="image" src="https://github.com/user-attachments/assets/46bcb255-0562-4f27-a49b-450b90da50c0" />
 
 ## TABULATION
+<img width="1080" height="963" alt="image" src="https://github.com/user-attachments/assets/51690146-dfc7-4338-9832-7794bb53c758" />
 
 ## OUTPUT
+![WhatsApp Image 2025-11-19 at 20 08 36_6e753c6c](https://github.com/user-attachments/assets/5652055a-938c-47b8-a177-6472c2d3a8cf)
+
 
 ## RESULT
+The message signal , carrier signal and amplitude modulated AM signal will be displayed seprately . Thus AM is implemented using numpy and matplotlib
